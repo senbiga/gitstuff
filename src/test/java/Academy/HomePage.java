@@ -52,6 +52,11 @@ public class HomePage extends base{
 		
 		
 		}
+	
+	@Test
+	public void choco() {
+		System.out.println("i am a good boy");
+	}
 
 	@AfterTest
 	public void teardown()
